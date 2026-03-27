@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(24, 102, 227);
+    font-family: cursive;
+}
+span{
+    color: rgb(0, 247, 255);
+}
+.hreflink{
+    color:black ;
+    background-color:rgb(24, 102, 227) ;
+    border-radius: 20px;
+    padding: 10px;
+}
